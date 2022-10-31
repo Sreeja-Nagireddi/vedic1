@@ -1,0 +1,13 @@
+{
+"name": "banana", "status": "frieind"
+}
+
+
+{
+"name": "tomato", "newStatus": "friend"
+}
+
+
+{
+"name": "banana"
+}
